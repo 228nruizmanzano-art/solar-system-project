@@ -8,6 +8,16 @@ table, th, td {
 body {
   background-image: url("HuGGeENt6kGyixe3hT9tnY.jpg");
 }
-h2 {
-  color: red;
+
+.hi{
+  color:rgb(216, 204, 38);
+
+}
+
+.hello{
+  color: rgb(216, 204, 38);
+}
+
+.something{
+   text-decoration-color: rgb(226, 226, 226);
 }
